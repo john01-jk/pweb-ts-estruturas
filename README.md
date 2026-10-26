@@ -1,6 +1,7 @@
 # Atividade: Estruturas em TypeScript
 
 Aluno(a): John Kleverson Barbosa Rosa
+
 Disciplina: Programação Web
 
 ## Exercícios
